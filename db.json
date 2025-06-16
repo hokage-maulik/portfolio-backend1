@@ -74,5 +74,13 @@
   "title":"Blog-Project",
   "github":"https://github.com/hokage-maulik/Blog-Project",
   "live":"https://blog-project-rho-ashy.vercel.app/"
+},
+{
+  "id":9,
+  "img":"https://cms.imgworlds.com/assets/a5366382-0c26-4726-9873-45d69d24f819.jpg?key=home-gallery",
+  "descryption":"My personal project that i make with Front-End in Reactjs.",
+  "title":"Photogrphy-Project",
+  "github":"https://github.com/hokage-maulik/Photography-Website",
+  "live":"https://photography-website-mocha.vercel.app/"
 }
   ]}
